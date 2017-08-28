@@ -42,7 +42,7 @@ The GCD Software was originally developed by [Joe Wheaton](http://www.joewheaton
 
 [![img](http://gcd.joewheaton.org/_/rsrc/1468741653880/home/NA_Logo_150pxTall.png)](http://northarrowresearch.com/)         [![essa.com](http://gcd.joewheaton.org/_/rsrc/1468741653879/home/ESSATechnologies_500x500.png?height=198&width=200) ](http://essa.com/)
 
-[![Ecogeomorphology & Topographic Analysis Laboratory2-05]({{ site.baseurl }}/assets/images/Ecogeomorphology & Topographic Analysis Laboratory2-05.png)](etal.usu.edu)
+[![Ecogeomorphology & Topographic Analysis Laboratory2-05]({{ site.baseurl }}/assets/images/Ecogeomorphology & Topographic Analysis Laboratory2-05.png)](http://etal.joewheaton.org)
 
 
 
